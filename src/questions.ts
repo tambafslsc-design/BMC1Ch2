@@ -29,7 +29,7 @@ export const questions: Question[] = [
   {
     questionNumber: 2,
     reference: "BAFS600C1Ch2-2",
-    text: "The involvement of Brian and Nicholas in a partnership is shown below.\n\nBrian: Limited liability: No, Investing in the business: Yes\nNicholas: Limited liability: Yes, Investing in the business: Yes\n\nWhich of the following statements are correct? (1) Nicholas is a limited partner. (2) Brian is a general partner. (3) The business is a general partnership.",
+    text: "The involvement of Brian and Nicholas in a partnership is shown below.\n\nBrian: Limited liability: No, Investing in the business: Yes\nNicholas: Limited liability: Yes, Investing in the business: Yes\n\nWhich of the following statements are correct?\n\n(1) Nicholas is a limited partner.\n(2) Brian is a general partner.\n(3) The business is a general partnership.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -81,7 +81,7 @@ export const questions: Question[] = [
   {
     questionNumber: 6,
     reference: "BAFS600C1Ch2-6",
-    text: "There is only one owner taking part in the management of the business. If he withdraws, goes bankrupt or dies, the business has to be terminated. The business can be a _____________. (1) sole proprietorship (2) partnership (3) private limited company",
+    text: "There is only one owner taking part in the management of the business. If he withdraws, goes bankrupt or dies, the business has to be terminated. The business can be a _____________.\n\n(1) sole proprietorship\n(2) partnership\n(3) private limited company",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -133,7 +133,7 @@ export const questions: Question[] = [
   {
     questionNumber: 10,
     reference: "BAFS600C1Ch2-10",
-    text: "The following shows the information of two firms:\n\nFirm A: Source of capital: Raised by issuing shares, Legal entity: Yes, Disclosure of financial statements to the public: Not required\nFirm B: Source of capital: Provided by the owners, Legal entity: Not a legal entity, Disclosure of financial statements to the public: Not required\n\nWhich of the following statements are correct? (1) Firm A is a legal entity. (2) Firm B is a partnership. (3) Firm A is a private limited company.",
+    text: "The following shows the information of two firms:\n\nFirm A: Source of capital: Raised by issuing shares, Legal entity: Yes, Disclosure of financial statements to the public: Not required\nFirm B: Source of capital: Provided by the owners, Legal entity: Not a legal entity, Disclosure of financial statements to the public: Not required\n\nWhich of the following statements are correct?\n\n(1) Firm A is a legal entity.\n(2) Firm B is a partnership.\n(3) Firm A is a private limited company.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -159,7 +159,7 @@ export const questions: Question[] = [
   {
     questionNumber: 12,
     reference: "BAFS600C1Ch2-12",
-    text: "Nana Accounting is a general partnership formed by Michael, Peter and Helen. Which of the following statements are INCORRECT? (1) Michael and Helen are free from the legal responsibilities bound by the contracts signed by Peter. (2) There may be a limited partner in the partnership. (3) Agreement must be reached among existing partners before the admission of new partners.",
+    text: "Nana Accounting is a general partnership formed by Michael, Peter and Helen. Which of the following statements are INCORRECT?\n\n(1) Michael and Helen are free from the legal responsibilities bound by the contracts signed by Peter.\n(2) There may be a limited partner in the partnership.\n(3) Agreement must be reached among existing partners before the admission of new partners.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -172,7 +172,7 @@ export const questions: Question[] = [
   {
     questionNumber: 13,
     reference: "BAFS600C1Ch2-15",
-    text: "Compared with a sole proprietorship, a general partnership ______________. (1) has lower flexibility in decision-making (2) has a higher profits tax rate (3) has a lower risk of incurring a loss",
+    text: "Compared with a sole proprietorship, a general partnership ______________.\n\n(1) has lower flexibility in decision-making\n(2) has a higher profits tax rate\n(3) has a lower risk of incurring a loss",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -198,7 +198,7 @@ export const questions: Question[] = [
   {
     questionNumber: 15,
     reference: "BAFS600C1Ch2-17",
-    text: "Andrew and Victor are deciding to set up a bookshop. They want to register their business in the form of a private limited company instead of a partnership. Which of the following are the disadvantages of setting up a private limited company over a partnership? (1) The setup procedures are more complicated. (2) It needs to disclose financial information to the public. (3) The profits tax rate is higher.",
+    text: "Andrew and Victor are deciding to set up a bookshop. They want to register their business in the form of a private limited company instead of a partnership. Which of the following are the disadvantages of setting up a private limited company over a partnership?\n\n(1) The setup procedures are more complicated.\n(2) It needs to disclose financial information to the public.\n(3) The profits tax rate is higher.",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -211,7 +211,7 @@ export const questions: Question[] = [
   {
     questionNumber: 16,
     reference: "BAFS600C1Ch2-18",
-    text: "Compared with a public limited company, a private limited company ______________. (1) has a lower risk of being taken over (2) needs not disclose financial information to the public (3) has a wider source of capital",
+    text: "Compared with a public limited company, a private limited company ______________.\n\n(1) has a lower risk of being taken over\n(2) needs not disclose financial information to the public\n(3) has a wider source of capital",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -237,7 +237,7 @@ export const questions: Question[] = [
   {
     questionNumber: 18,
     reference: "BAFS600C1Ch2-20",
-    text: "Which of the following descriptions about a partnership is/are correct? (1) A general partner's maximum loss is confined to the amount invested. (2) A limited partner contributes capital to the partnership but does not take part in management. (3) A general partnership is not bounded by contracts signed by any of the partners on behalf of the partnership.",
+    text: "Which of the following descriptions about a partnership is/are correct?\n\n(1) A general partner's maximum loss is confined to the amount invested.\n(2) A limited partner contributes capital to the partnership but does not take part in management.\n(3) A general partnership is not bounded by contracts signed by any of the partners on behalf of the partnership.",
     options: {
       A: "(1) only",
       B: "(2) only",
@@ -250,7 +250,7 @@ export const questions: Question[] = [
   {
     questionNumber: 19,
     reference: "BAFS600C1Ch2-21",
-    text: "Which of the following are ways for a private limited company to raise capital? (1) issue ordinary and preference shares (2) issue debentures (3) borrow funds from financial institutions",
+    text: "Which of the following are ways for a private limited company to raise capital?\n\n(1) issue ordinary and preference shares\n(2) issue debentures\n(3) borrow funds from financial institutions",
     options: {
       A: "(1) and (2) only",
       B: "(1) and (3) only",
@@ -354,7 +354,7 @@ export const questions: Question[] = [
   {
     questionNumber: 27,
     reference: "BAFS600C1Ch2-42",
-    text: "Which of the following descriptions about limited partners in Hong Kong is/are INCORRECT? (1) Limited partners are liable for only parts of the debts of the firm when the business terminates. (2) Limited partners do not share any profits of the business. (3) Death or bankruptcy of a limited partner terminates the business.",
+    text: "Which of the following descriptions about limited partners in Hong Kong is/are INCORRECT?\n\n(1) Limited partners are liable for only parts of the debts of the firm when the business terminates.\n(2) Limited partners do not share any profits of the business.\n(3) Death or bankruptcy of a limited partner terminates the business.",
     options: {
       A: "(1) only",
       B: "(2) only",
