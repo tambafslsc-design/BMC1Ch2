@@ -276,7 +276,7 @@ export const questions: Question[] = [
   {
     questionNumber: 21,
     reference: "BAFS600C1Ch2-34",
-    text: "Lily and Julie are running a fast food restaurant, called ‘Together Happy Restaurant’. They both invested $500,000 into it and share the profit earned equally. If one of them withdraws from it, it can still continue its operation. Besides, the financial position of the business does not need to be disclosed to the public, but they still publish the financial report to the public every year. ‘Together Happy Restaurant’ is a ______________.",
+    text: "Lily and Julie are running a fast food restaurant, called ‘Together Happy Restaurant’. They both invested $500,000 into it and share the profit earned equally. If one of them withdraws from it, it can still continue its operation. Besides, the financial position of the business does not need to be disclosed to the public, but they still publish the financial report to the public every year.\n\n‘Together Happy Restaurant’ is a ______________.",
     options: {
       A: "public limited company",
       B: "public corporation",
@@ -289,7 +289,7 @@ export const questions: Question[] = [
   {
     questionNumber: 22,
     reference: "BAFS600C1Ch2-35",
-    text: "Due to the economic recession, Together Happy Restaurant suffers losses amounting to $700,000. Lily and Julie are going to close down the restaurant. After liquidating all assets of the restaurant, it still owes an amount of $600,000 debts. In this case, Lily and Julie each needs to draw out ______________ to repay the debts.",
+    text: "Lily and Julie are running a fast food restaurant, called ‘Together Happy Restaurant’. They both invested $500 000 into it and share the profit earned equally. If one of them withdraws from it, it can still continue its operation. Besides, the financial position of the business does not need to be disclosed to the public, but they still publish the financial report to the public every year.\n\nDue to the economic recession, Together Happy Restaurant suffers losses amounting to $700,000. Lily and Julie are going to close down the restaurant. After liquidating all assets of the restaurant, it still owes an amount of $600,000 debts. In this case, Lily and Julie each needs to draw out ______________ to repay the debts.",
     options: {
       A: "$0",
       B: "$150,000",
